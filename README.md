@@ -1,5 +1,5 @@
 # advertising-performance-analysis
-This project focuses on the analytical evaluation of Facebook advertising campaign performance using transactional marketing data. The objective was to assess advertising efficiency through spend analysis, Return on Marketing Investment (ROMI) and performance variabilityin order to identify key drivers of campaign effectiveness.
+This project focuses on the analytical evaluation of Facebook advertising campaign performance using transactional marketing data. The objective was to assess advertising efficiency through spend analysis, Return on Marketing Investment (ROMI) and performance variabilityin order to identify key drivers of campaign effectiveness.  
 *My Tasks*  
 Imported and structured raw campaign dataset into a Pandas DataFrame  
 Performed time-based aggregation to evaluate daily advertising spend and daily ROMI for 2021  
